@@ -1,3 +1,3 @@
 # Análise de Dados com Databricks Community
 
-Documento de apoio tutorial.pdf
+Acessar o Documento de apoio tutorial_analises.pdf e seguir os passos conforme descritos.
