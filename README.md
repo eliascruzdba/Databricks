@@ -14,4 +14,6 @@ O workspace do Databricks fornece uma interface e ferramentas unificadas para a 
 • Modelagem de aprendizado de máquina (ML), acompanhamento e modelo de atividade
 • Soluções de IA generativa
 
+https://docs.databricks.com/pt/introduction/index.html
+
 Para iniciar favor acessar o Documento de apoio tutorial_analises.pdf e seguir os passos conforme descritos.
